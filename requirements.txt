@@ -8,5 +8,6 @@ python3-distutils
 tensorflow==2.10.0
 numpy>=1.21.0,<1.23.0
 pandas==2.0.3
-setuptools>=65.0.0
+setuptools>=68.0.0
+wheel
 streamlit==1.25.0
