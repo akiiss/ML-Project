@@ -5,4 +5,4 @@ openpyxl
 matplotlib
 statsmodels
 seaborn
-MinMaxScaler
+minmaxscaler
