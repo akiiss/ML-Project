@@ -4,5 +4,5 @@ matplotlib
 statsmodels
 seaborn
 numpy
-sklearn
+scikit-learn
 tensowflow
