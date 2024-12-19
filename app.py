@@ -1,9 +1,7 @@
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
-from statsmodels.tsa.statespace.sarimax import SARIMAX
-import pandas as pd
-import matplotlib.pyplot as plt
+
+
 
 st.set_page_config(
     page_title="Air Pollution",
@@ -15,6 +13,10 @@ st.title("Data-Driven Air Pollution Assessment for Environmental Solutions in Al
 
 col1, col2, col3 = st.columns(3)
 
+import matplotlib.pyplot as plt
+from statsmodels.tsa.statespace.sarimax import SARIMAX
+import pandas as pd
+import matplotlib.pyplot as plt
 
 with col1:
     st.header("Used dataset")
