@@ -6,4 +6,4 @@ seaborn
 numpy
 scikit-learn
 tensorflow==2.17.0
-openpyx1
+openpyxl==3.1.5
