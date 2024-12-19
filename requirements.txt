@@ -6,3 +6,5 @@ matplotlib
 statsmodels
 seaborn
 minmaxscaler
+mean_squared_error
+mean_absolute_error
